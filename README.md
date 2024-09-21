@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper Kaan Odabaşoğlu</h1>
-<h3 align="center">I am a passionate Computer Scientist and Engineer from Turkey</h3>
+<h3 align="center">I am a passionate Computer Scientist and Engineer from Türkiye</h3>
 <img align="right" alt="Coding" width="300" src="https://i.ibb.co/z2VfQfD/memoji-removebg-preview.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperkaan01&label=Profile%20views&color=0e75b6&style=flat" alt="alperkaan01" /> </p>
