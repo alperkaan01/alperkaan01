@@ -8,4 +8,6 @@ I manage both public and private repositories here. Let's build and evolve toget
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alperkaanodabasoglu/)
+<a href="https://www.linkedin.com/in/alperkaanodabasoglu/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Connect on LinkedIn" width="35"/>
+</a>
