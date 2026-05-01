@@ -1,8 +1,6 @@
 ### Hi, I'm Alper.
 
-I love developing scalable and useful applications with AI :)
-
-I currently work on private projects but in the future we can see some open source projects as well... 
+I'm a little confused, but I'm building some stuff.
 
 ---
 
