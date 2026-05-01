@@ -1,6 +1,4 @@
-### Hi, I'm Alper.
-
-I'm a little confused, but I'm building some stuff.
+Nothing to say
 
 ---
 
